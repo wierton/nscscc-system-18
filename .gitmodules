@@ -2,3 +2,7 @@
 	path = nemu-mips32
 	url = git@github.com:wierton/nemu-mips32
 	branch = run_final_system_18_paging_no_intr
+[submodule "nexus-am"]
+	path = nexus-am
+	url = git@github.com:wierton/nexus-am
+	branch = run_final_system_18_paging_no_intr
