@@ -10,3 +10,7 @@
 	path = nanos
 	url = git@github.com:wierton/nanos
 	branch = run_final_system_18_paging_no_intr
+[submodule "navy-apps"]
+	path = navy-apps
+	url = git@github.com:wierton/navy-apps
+	branch = run_final_system_18_paging_no_intr
